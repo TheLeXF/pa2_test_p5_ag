@@ -15,6 +15,7 @@ public class Pa2TestP5AgApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		System.out.println("Tarea de Git N°1");
 		System.out.println("Alexis Guanoluisa");
+		System.out.println("Cambios en el mismo branch");
 	}
 
 }
